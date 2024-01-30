@@ -1,0 +1,75 @@
+.background-image {
+  background-color: #678678;
+  background-size: cover;
+}
+
+.toptitle {
+  background-color: white;
+  border-radius: 50px;
+  color: black;
+  width: 85%;
+  padding: 5px 10px;
+  margin: 1px auto;
+  font-family: barlow;
+  text-align: center;
+  font-size: 25px;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+  margin-top: 60px;
+  font-size: 30px;
+  font-family: barlow;
+}
+
+h2 {
+  text-align: center;
+  font-size: 64px;
+}
+
+h4 {
+  color: black;
+  text-align: center;
+  font-size: 25px;
+  font-family: barlow;
+}
+
+h3 {
+  text-align: center;
+  font-size: 50px;
+  font-family: barlow;
+}
+h5 {
+  color: black;
+  text-align: center;
+  font-size: 40px;
+  font-family: poppins;
+}
+
+p2 {
+  font-size: 20px;
+}
+
+p {
+  font-size: 18px;
+}
+
+.homepage-links a {
+  margin: 23px;
+  border-radius: 4px;
+  padding: 20px 15px;
+  text-decoration: none;
+  font-family: poppins;
+}
+.contact-me {
+  border: 1px solid gray;
+  background-color: #eae3e3;
+  font-family: lobster;
+  color: purple;
+}
+
+.portfolio {
+  border: 1px solid black;
+  color: purple;
+}
